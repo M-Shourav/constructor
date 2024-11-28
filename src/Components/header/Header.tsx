@@ -33,7 +33,7 @@ const Header = () => {
               />
             </Link>
           ))}
-          <div className="">
+          <div>
             <SocialLink />
           </div>
         </div>
