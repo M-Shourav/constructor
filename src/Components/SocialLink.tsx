@@ -33,7 +33,12 @@ const SocialLink = () => {
   return (
     <div className="flex items-center gap-3 pl-8">
       {SocialLinks?.map((item) => (
-        <Link className="text-xl" key={item?._id} href={item?.href}>
+        <Link
+          className="text-xl"
+          key={item?._id}
+          href={item?.href}
+          target="blank"
+        >
           <p
             className="bg-black/80 text-white/90 w-9 h-9 flex items-center
            justify-center rounded-full hover:bg-black hover:text-white duration-300 ease-in-out"
