@@ -8,7 +8,6 @@ import { usePathname } from "next/navigation";
 import SocialLink from "../SocialLink";
 const Header = () => {
   const pathName = usePathname();
-  console.log(pathName);
 
   return (
     <div className="w-full h-20 py-2 shadow">
