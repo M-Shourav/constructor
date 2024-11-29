@@ -32,7 +32,7 @@ const Header = () => {
               />
             </Link>
           ))}
-          <div>
+          <div className="hidden lg:inline-flex">
             <SocialLink />
           </div>
         </div>

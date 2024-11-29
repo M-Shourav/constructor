@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 .bannerImg {
-  background-image: url("../assets/images/construction.jpg");
+  background-image: url("../assets/images/banner.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
