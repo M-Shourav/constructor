@@ -11,7 +11,10 @@ import project_3 from "@/assets/images/project-3-1.jpg";
 import project_4 from "@/assets/images/project-4-1.jpg";
 import project_5 from "@/assets/images/project-5-1.jpg";
 import project_6 from "@/assets/images/project-6-1.jpg";
-
+import team_1 from "@/assets/images/team-img.jpg";
+import team_2 from "@/assets/images/team-2-1.jpg";
+import team_3 from "@/assets/images/team-3-1.jpg";
+import footerLogo from "@/assets/images/footerLogo.png";
 export {
   logo,
   bannerImage,
@@ -26,4 +29,8 @@ export {
   project_4,
   project_5,
   project_6,
+  team_1,
+  team_2,
+  team_3,
+  footerLogo,
 };
