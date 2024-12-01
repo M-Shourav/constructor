@@ -6,6 +6,7 @@ import { HeaderNavigation } from "@/constants";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import SocialLink from "../SocialLink";
+import { motion } from "framer-motion";
 const Header = () => {
   const pathName = usePathname();
 
@@ -15,7 +16,12 @@ const Header = () => {
         <Link href={"/"}>
           <Image src={logo} alt="logo" priority />
         </Link>
-        <div className="hidden md:inline-flex items-center gap-5">
+        <motion.div
+          initial={{ x: -10, opacity: 0 }}
+          animate={{ x: 0, opacity: 1 }}
+          transition={{ duration: 0.8 }}
+          className="hidden md:inline-flex items-center gap-5"
+        >
           {HeaderNavigation?.map((item) => (
             <Link
               key={item?.title}
@@ -35,7 +41,7 @@ const Header = () => {
           <div className="hidden lg:inline-flex">
             <SocialLink />
           </div>
-        </div>
+        </motion.div>
       </Container>
     </div>
   );

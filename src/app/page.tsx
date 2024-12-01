@@ -1,4 +1,5 @@
 import Banner from "@/Components/Banner";
+import Counter from "@/Components/Counter";
 import Instruction from "@/Components/Instruction";
 import OurSpecialization from "@/Components/OurSpecialization";
 import Project from "@/Components/Project";
@@ -23,6 +24,8 @@ const HomePage = () => {
       <Project />
       {/* projectMember */}
       <ProjectMembers />
+      {/* counter */}
+      <Counter />
     </div>
   );
 };

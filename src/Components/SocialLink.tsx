@@ -31,20 +31,16 @@ const SocialLink = () => {
     },
   ];
   return (
-    <div className="flex items-center gap-3 pl-8">
+    <div className="flex items-start gap-3">
       {SocialLinks?.map((item) => (
         <Link
-          className="text-xl"
-          key={item?._id}
           href={item?.href}
+          key={item?._id}
           target="blank"
+          className="bg-gray-500 text-white w-8 h-8 flex items-center justify-center
+           text-lg rounded-full border border-gray-200 hover:bg-orange-500 duration-300"
         >
-          <p
-            className="bg-black/80 text-white/90 w-9 h-9 flex items-center
-           justify-center rounded-full hover:bg-black hover:text-white duration-300 ease-in-out"
-          >
-            {item?.icons}
-          </p>
+          {item?.icons}
         </Link>
       ))}
     </div>

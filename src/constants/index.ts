@@ -1,5 +1,14 @@
 import {
+  FaFacebookF,
+  FaGooglePlusG,
+  FaInstagram,
+  FaXTwitter,
+} from "react-icons/fa6";
+import {
   aboutImage,
+  offer_1,
+  offer_2,
+  offer_3,
   project_2,
   project_3,
   project_4,
@@ -79,5 +88,61 @@ export const teamArray = [
     title: "Creative director",
     images: team_3,
     del: 0.4,
+  },
+];
+
+export const companyArr = [
+  {
+    title: "Who we are",
+    href: "/about",
+  },
+  {
+    title: "About Company",
+    href: "/about",
+  },
+  {
+    title: "Services We Provide",
+    href: "/about",
+  },
+  {
+    title: "What We Have Done",
+    href: "/about",
+  },
+];
+
+export const companyServicesArr = [
+  {
+    title: "Architecture",
+    href: "/services",
+  },
+  {
+    title: "Exterior Design",
+    href: "/services",
+  },
+  {
+    title: "Landscape Design",
+    href: "/services",
+  },
+  {
+    title: "Site Planning",
+    href: "/services",
+  },
+];
+
+export const offerArray = [
+  {
+    title: "We Understand Requirements",
+    images: offer_1,
+    des: "Sed sit amet sapien sit amet odio lobortis ullamcorper quis vel nisl. Nam blandit maximus tristique.",
+  },
+  {
+    title: "We Work Precisely",
+    images: offer_2,
+    des: "Sed sit amet sapien sit amet odio lobortis ullamcorper quis vel nisl. Nam blandit maximus tristique.",
+  },
+  {
+    title: "We Deliver Best Output",
+    images: offer_3,
+    des: "Sed sit amet sapien sit amet odio lobortis ullamcorper quis vel nisl. Nam blandit maximus tristique.",
   },
 ];

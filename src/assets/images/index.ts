@@ -15,6 +15,11 @@ import team_1 from "@/assets/images/team-img.jpg";
 import team_2 from "@/assets/images/team-2-1.jpg";
 import team_3 from "@/assets/images/team-3-1.jpg";
 import footerLogo from "@/assets/images/footerLogo.png";
+import storyImage from "@/assets/images/our-story.jpg";
+import offer_1 from "@/assets/images/requirements .jpg";
+import offer_2 from "@/assets/images/worker.jpg";
+import offer_3 from "@/assets/images/building (1).jpg";
+
 export {
   logo,
   bannerImage,
@@ -33,4 +38,8 @@ export {
   team_2,
   team_3,
   footerLogo,
+  storyImage,
+  offer_1,
+  offer_2,
+  offer_3,
 };
