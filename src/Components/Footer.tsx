@@ -1,7 +1,7 @@
 import React from "react";
 import Container from "./Container";
 import Image from "next/image";
-import { footerLogo, logo } from "@/assets/images";
+import { footerLogo } from "@/assets/images";
 import Title from "./Title";
 import SocialLink from "./SocialLink";
 import Link from "next/link";

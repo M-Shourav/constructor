@@ -1,4 +1,4 @@
-import { bannerImage, CTAImage } from "@/assets/images";
+import { CTAImage } from "@/assets/images";
 import Image from "next/image";
 import React from "react";
 import { IoIosArrowRoundForward } from "react-icons/io";

@@ -1,7 +1,4 @@
 import React from "react";
-import Container from "./Container";
-import Title from "./Title";
-import { GrHome } from "react-icons/gr";
 import { IoIosArrowRoundForward } from "react-icons/io";
 import Image from "next/image";
 import { bannerImage } from "@/assets/images";

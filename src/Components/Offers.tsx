@@ -1,7 +1,7 @@
 import React from "react";
 import Title from "./Title";
 import Image from "next/image";
-import { offerArray, teamArray } from "@/constants";
+import { offerArray } from "@/constants";
 import Link from "next/link";
 import { FaArrowRightLong } from "react-icons/fa6";
 

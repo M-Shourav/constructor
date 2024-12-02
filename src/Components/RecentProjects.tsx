@@ -1,13 +1,11 @@
 import React from "react";
 import Image from "next/image";
 import {
-  profileImage_1,
   profileImage_2,
   profileImage_3,
   project_3,
   project_4,
   project_5,
-  team_1,
   team_3,
 } from "@/assets/images";
 import Title from "./Title";

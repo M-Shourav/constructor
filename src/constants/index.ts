@@ -1,10 +1,4 @@
 import {
-  FaFacebookF,
-  FaGooglePlusG,
-  FaInstagram,
-  FaXTwitter,
-} from "react-icons/fa6";
-import {
   aboutImage,
   offer_1,
   offer_2,
@@ -13,7 +7,6 @@ import {
   project_3,
   project_4,
   project_5,
-  project_6,
   team_1,
   team_2,
   team_3,
