@@ -1,4 +1,7 @@
+import ContactLeft from "@/Components/ContactLeft";
+import ContactRight from "@/Components/ContactRight";
 import Container from "@/Components/Container";
+import SocialLink from "@/Components/SocialLink";
 import Title from "@/Components/Title";
 
 const ContactPage = () => {
@@ -13,12 +16,19 @@ const ContactPage = () => {
           right away.
         </p>
       </div>
-      <div className="w-full h-full flex flex-col md:flex-row  gap-5 ">
-        <div className="bg-red-300 w-full h-full p-6">
-          <Title>Send Us A Message</Title>
+      <div className="w-full h-full flex flex-col md:flex-row  gap-5">
+        <div className="bg-gray-300 w-full h-full p-6 flex flex-col gap-10">
+          <Title className="md:text-3xl">Send Us A Message</Title>
+          <ContactLeft />
         </div>
-        <div className="bg-red-500 w-full h-full p-6">
+        <div
+          className=" bg-gray-100 border border-gray-200 w-full h-full p-6
+         flex flex-col gap-10"
+        >
           <Title>Contact Info</Title>
+          <ContactRight />
+          <Title className="md:text-3xl">Follow US</Title>
+          <SocialLink />
         </div>
       </div>
     </Container>
