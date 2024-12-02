@@ -1,6 +1,7 @@
 import Link from "next/link";
 import React from "react";
 import { FaFacebookF, FaInstagram, FaXTwitter } from "react-icons/fa6";
+import { twMerge } from "tailwind-merge";
 interface props {
   className?: string;
 }
@@ -24,7 +25,7 @@ const TeamSocialAccount = ({ className }: props) => {
     },
   ];
   return (
-    <div className="flex items-center gap-2 mt-3">
+    <div className={twMerge("flex items-center gap-2 mt-3", className)}>
       {SocialLinks?.map((item) => (
         <Link
           key={item?._id}

@@ -6,7 +6,6 @@ import Title from "@/Components/Title";
 import Image from "next/image";
 import React from "react";
 import { IoIosArrowDropdownCircle } from "react-icons/io";
-import { MdCall } from "react-icons/md";
 
 const AboutPage = () => {
   return (
@@ -30,13 +29,13 @@ const AboutPage = () => {
           <p className="text-md text-gray-600 ">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga
             repudiandae reprehenderit ratione tempore dolorum, eaque pariatur
-            dicta veniam neque, id distinctio quod voluptatibus quia dignissimos
+            dicta veniam neque id distinctio quod voluptatibus quia dignissimos
             totam voluptas delectus omnis iure. Libero quasi repellat
             perspiciatis enim eum quisquam sapiente, ut molestias repudiandae
             nisi ducimus veniam vero eius maxime voluptas vel necessitatibus
             aut? Repellat veritatis inventore quos perspiciatis unde dolor
             tempore natus libero porro earum quam et corrupti quod modi, maxime
-            nam saepe odit, quae tempora. Rerum mollitia voluptatem quam
+            nam saepe odit quae tempora. Rerum mollitia voluptatem quam
             inventore recusandae!
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2  gap-3 mt-5">

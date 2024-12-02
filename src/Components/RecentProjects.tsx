@@ -25,9 +25,9 @@ const RecentProjects = () => {
             />
             <div className="w-full flex flex-col gap-4  justify-center px-8 h-[200px] bg-white absolute bottom-0 left-0">
               <p className="text-base font-semibold text-gray-500">
-                "Lorem lacus reiciendis illo placerat tempus, temporibus
-                deserunt commodo incidunt error, unde. Facilisis aspernatur.
-                Recusandae illum"
+                "Lorem lacus reiciendis illo placerat tempus temporibus deserunt
+                commodo incidunt error unde. Facilisis aspernatur. Recusandae
+                illum"
               </p>
               <div className="flex items-center gap-2">
                 <Image
@@ -64,19 +64,19 @@ const RecentProjects = () => {
               <span className="text-2xl font-semibold text-orange-500 mt-1">
                 <IoMdArrowDropright />
               </span>
-              Blandit fugit dicta quibusdam, maxime tempor
+              Blandit fugit dicta quibusdam maxime tempor
             </p>
             <p className="flex items-center gap-2 text-base text-gray-600">
               <span className="text-2xl font-semibold text-orange-500 mt-1">
                 <IoMdArrowDropright />
               </span>
-              Blandit fugit dicta quibusdam, maxime tempor
+              Blandit fugit dicta quibusdam maxime tempor
             </p>
             <p className="flex items-center gap-2 text-base text-gray-600">
               <span className="text-2xl font-semibold text-orange-500 mt-1">
                 <IoMdArrowDropright />
               </span>
-              Blandit fugit dicta quibusdam, maxime tempor
+              Blandit fugit dicta quibusdam maxime tempor
             </p>
           </div>
           <button
@@ -105,19 +105,19 @@ const RecentProjects = () => {
               <span className="text-2xl font-semibold text-orange-500 mt-1">
                 <IoMdArrowDropright />
               </span>
-              Blandit fugit dicta quibusdam, maxime tempor
+              Blandit fugit dicta quibusdam maxime tempor
             </p>
             <p className="flex items-center gap-2 text-base text-gray-600">
               <span className="text-2xl font-semibold text-orange-500 mt-1">
                 <IoMdArrowDropright />
               </span>
-              Blandit fugit dicta quibusdam, maxime tempor
+              Blandit fugit dicta quibusdam maxime tempor
             </p>
             <p className="flex items-center gap-2 text-base text-gray-600">
               <span className="text-2xl font-semibold text-orange-500 mt-1">
                 <IoMdArrowDropright />
               </span>
-              Blandit fugit dicta quibusdam, maxime tempor
+              Blandit fugit dicta quibusdam maxime tempor
             </p>
           </div>
           <button
@@ -138,9 +138,9 @@ const RecentProjects = () => {
             />
             <div className="w-full flex flex-col gap-4  justify-center px-8 h-[200px] bg-white absolute bottom-0 left-0">
               <p className="text-base font-semibold text-gray-500">
-                "Lorem lacus reiciendis illo placerat tempus, temporibus
-                deserunt commodo incidunt error, unde. Facilisis aspernatur.
-                Recusandae illum"
+                "Lorem lacus reiciendis illo placerat tempus temporibus deserunt
+                commodo incidunt error unde. Facilisis aspernatur. Recusandae
+                illum"
               </p>
               <div className="flex items-center gap-2">
                 <Image
@@ -173,9 +173,9 @@ const RecentProjects = () => {
             />
             <div className="w-full flex flex-col gap-4  justify-center px-8 h-[200px] bg-white absolute bottom-0 left-0">
               <p className="text-base font-semibold text-gray-500">
-                "Lorem lacus reiciendis illo placerat tempus, temporibus
-                deserunt commodo incidunt error, unde. Facilisis aspernatur.
-                Recusandae illum"
+                "Lorem lacus reiciendis illo placerat tempus temporibus deserunt
+                commodo incidunt error unde. Facilisis aspernatur. Recusandae
+                illum"
               </p>
               <div className="flex items-center gap-2">
                 <Image
@@ -212,19 +212,19 @@ const RecentProjects = () => {
               <span className="text-2xl font-semibold text-orange-500 mt-1">
                 <IoMdArrowDropright />
               </span>
-              Blandit fugit dicta quibusdam, maxime tempor
+              Blandit fugit dicta quibusdam maxime tempor
             </p>
             <p className="flex items-center gap-2 text-base text-gray-600">
               <span className="text-2xl font-semibold text-orange-500 mt-1">
                 <IoMdArrowDropright />
               </span>
-              Blandit fugit dicta quibusdam, maxime tempor
+              Blandit fugit dicta quibusdam maxime tempor
             </p>
             <p className="flex items-center gap-2 text-base text-gray-600">
               <span className="text-2xl font-semibold text-orange-500 mt-1">
                 <IoMdArrowDropright />
               </span>
-              Blandit fugit dicta quibusdam, maxime tempor
+              Blandit fugit dicta quibusdam maxime tempor
             </p>
           </div>
           <button

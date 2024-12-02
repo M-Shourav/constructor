@@ -1,5 +1,4 @@
 import Container from "@/Components/Container";
-import SecondInstruction from "@/Components/SecondInstruction";
 import Title from "@/Components/Title";
 import TopFooter from "@/Components/TopFooter";
 import React from "react";
