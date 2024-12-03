@@ -25,9 +25,9 @@ const RecentProjects = () => {
             />
             <div className="w-full flex flex-col gap-4  justify-center px-8 h-[200px] bg-white absolute bottom-0 left-0">
               <p className="text-base font-semibold text-gray-500">
-                "Lorem lacus reiciendis illo placerat tempus temporibus deserunt
+                Lorem lacus reiciendis illo placerat tempus temporibus deserunt
                 commodo incidunt error unde. Facilisis aspernatur. Recusandae
-                illum"
+                illum
               </p>
               <div className="flex items-center gap-2">
                 <Image
@@ -138,9 +138,9 @@ const RecentProjects = () => {
             />
             <div className="w-full flex flex-col gap-4  justify-center px-8 h-[200px] bg-white absolute bottom-0 left-0">
               <p className="text-base font-semibold text-gray-500">
-                "Lorem lacus reiciendis illo placerat tempus temporibus deserunt
+                Lorem lacus reiciendis illo placerat tempus temporibus deserunt
                 commodo incidunt error unde. Facilisis aspernatur. Recusandae
-                illum"
+                illum
               </p>
               <div className="flex items-center gap-2">
                 <Image
@@ -173,9 +173,9 @@ const RecentProjects = () => {
             />
             <div className="w-full flex flex-col gap-4  justify-center px-8 h-[200px] bg-white absolute bottom-0 left-0">
               <p className="text-base font-semibold text-gray-500">
-                "Lorem lacus reiciendis illo placerat tempus temporibus deserunt
+                Lorem lacus reiciendis illo placerat tempus temporibus deserunt
                 commodo incidunt error unde. Facilisis aspernatur. Recusandae
-                illum"
+                illum
               </p>
               <div className="flex items-center gap-2">
                 <Image
